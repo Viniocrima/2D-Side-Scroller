@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "2D side scroller.data.unityweb",
+"asmCodeUrl": "2D side scroller.asm.code.unityweb",
+"asmMemoryUrl": "2D side scroller.asm.memory.unityweb",
+"asmFrameworkUrl": "2D side scroller.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
